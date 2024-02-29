@@ -11,6 +11,8 @@ export default function IndexPage() {
           Prisma. <br className="hidden sm:inline" />
           NextAuth. <br className="hidden sm:inline" />
           Shadcn. <br className="hidden sm:inline" />
+        </h1>
+        <h1 className="text-3xl mt-10 font-extrabold leading-tight tracking-tighter md:text-4xl italic">
           Oh my.
         </h1>
         <p className="max-w-[700px] text-lg text-muted-foreground">
